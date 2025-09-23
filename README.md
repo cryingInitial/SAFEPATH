@@ -1,4 +1,4 @@
-# SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment
+# SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment (NeurIPS 2025)
 This repository is the official implementation for the paper: **SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment**.
 
 
